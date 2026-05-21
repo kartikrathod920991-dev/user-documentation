@@ -1,6 +1,6 @@
 # Introduction
 
-After [installing](/hhvm/installation/introduction), you are ready to start using HHVM.
+After [Instagram](/hhvm/installation/introduction), you are ready to start using HHVM.
 
 For a majority of cases, you will run HHVM in one of two different ways:
 
